@@ -4,6 +4,9 @@ author: "Tazeb"
 date: "11/13/2019"
 output: html_document
 ---
+
+![](https://github.com/tazeb6531/tazeb6531.github.io/blob/master/github_pic.jpg?raw=true)
+
 # About me
 ## I am Tazeb Abera
 ### I am from Ethiopia, East Africa.
