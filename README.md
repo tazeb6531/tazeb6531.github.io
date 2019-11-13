@@ -1,4 +1,3 @@
 # tazeb6531.github.io
-# About me
-## I am Tazeb Abera
+# I am Tazeb Abera, MS Data science at SMU
 ### This the site to share ideas.
