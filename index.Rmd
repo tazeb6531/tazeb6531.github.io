@@ -5,6 +5,7 @@ date: "11/11/2019"
 output: html_document
 ---
 # The simple Awosem website
+# Comment
 ## Note: The 6 lines of text above are the YAML tages
 ### we will knit the RMD to a html file next
 then push index.ttml to the github.io repo
