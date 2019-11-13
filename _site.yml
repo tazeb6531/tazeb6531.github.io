@@ -1,0 +1,12 @@
+
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "case study"
+     href: https://tazeb6531.github.io/BeerCaseStudy.html   
+    
+     
+    

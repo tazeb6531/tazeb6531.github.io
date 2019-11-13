@@ -1,11 +1,10 @@
 ---
-title: "HomeWORK"
-author: "Tazeb"
-date: "11/13/2019"
+title: "This is my first website"
+author: "Tazeb Abera"
 output: html_document
 ---
-
 ![](https://github.com/tazeb6531/tazeb6531.github.io/blob/master/github_pic.jpg?raw=true)
+
 
 # About me
 ## I am Tazeb Abera
@@ -13,4 +12,4 @@ output: html_document
 ### I am a power engineer and need to study my PhD in power engineer or Data science in the coming 4 years.
 ### I am not title work right now but some activity privately
 ### I did my graduate and under graduate degree in Ethiopia. 
-making struggle in life gives fruit! I am struggling life.
+  
