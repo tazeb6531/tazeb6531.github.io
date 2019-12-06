@@ -8,4 +8,6 @@ navbar:
       href: BeerCaseStudy.html  
     - text: "Homework"
       href: Homework.html
+    - text: "CaseStaudy2"
+      href: CaseStudy2DDS.html
    
